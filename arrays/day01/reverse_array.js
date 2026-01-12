@@ -10,3 +10,5 @@ function reverseArray(arr){
 }
 let arr=[10, 20, 30]
 console.log(reverseArray(arr))
+//Time Complexity O(n)
+//space Complexity O(1)

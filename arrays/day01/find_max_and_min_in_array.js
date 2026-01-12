@@ -19,3 +19,5 @@ function findMaxMin(arr){
 }
 let arr=[3, 1, 9, 7, 2]
 console.log(findMaxMin(arr))
+//Time Complexity O(n)
+//Space Complexity O(1)
