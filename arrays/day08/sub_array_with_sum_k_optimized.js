@@ -17,5 +17,5 @@ function subArrayWithSumKOptimized(arr,k){
 let arr=[1, 2, 3, 4, 5]
 let k = 9
 console.log(subArrayWithSumKOptimized(arr,k))
-//Time Complexity  O(n)
+//Time Complexity O(n)
 //Space Complexity O(n)
