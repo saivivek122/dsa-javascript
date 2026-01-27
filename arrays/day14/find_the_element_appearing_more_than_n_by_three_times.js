@@ -19,3 +19,5 @@ function findTheElementAppearingMoreThanNByThreeTimes(arr){
 }
 let arr=[3, 2, 3]
 console.log(findTheElementAppearingMoreThanNByThreeTimes(arr))
+//Time Complexity O(n)
+//Space Complexity O(n)
